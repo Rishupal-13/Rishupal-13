@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rishu <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h1 align="center">Hi 👋, I'm Rishu <img height="40" src="https://emoji.gg/assets/emoji/9781-pink-heart-burst.png" width="64px" height="64px" alt="pink_heart_burst"></h1>
 <h3 align="center">A passionate full stack developer  and machine learning enthusiast from National Institute of Technology ,Patna</h3>
 
 - 🔭 I’m currently working on my **Web Development Projects**
