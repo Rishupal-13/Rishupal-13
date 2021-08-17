@@ -15,7 +15,7 @@
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishu-pal-b251351a0/)
-[![image](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://rishupal-13.github.io/portfolio_rp/#/)
+[![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://rishupal-13.github.io/portfolio_rp/#/)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishup.ug18.ee@nitp.ac.in)
   
 </div>
